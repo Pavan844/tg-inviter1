@@ -16,11 +16,11 @@ from tginviter.bot import PythonTelegramBot
 
 # Text to use in bot's messages
 TEXT_ERROR = (
-    "*Ошибка*\n\n"
+    "*Error*\n\n"
     "Ссылка активации недействительна."
 )
 TEXT_SUCCESS = (
-    "*Подписка активирована*\n\n"
+    "*Success активирована*\n\n"
     "Для перехода на канал используйте кнопку ниже."
 )
 TEXT_JOINCHAT_BUTTON = "Перейти на канал"
