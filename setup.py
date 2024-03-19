@@ -19,7 +19,7 @@ setuptools.setup(
     description="Package to generate and process personal invites link in Telegram",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cuamckuu/tg-inviter",
+    url="https://github.com/Pavan844/tg-inviter1",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
