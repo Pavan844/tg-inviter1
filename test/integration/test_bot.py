@@ -12,11 +12,11 @@ from tginviter.storage import MemoryStorage
 load_dotenv(find_dotenv())
 
 
-TELETHON_API_ID = int(os.environ.get("TELETHON_API_ID"))
-TELETHON_API_HASH = os.environ.get("TELETHON_API_HASH")
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-TEST_CHANNEL_ID = int(os.environ.get("TEST_CHANNEL_ID"))
-TELETHON_SESSION_NAME = os.environ.get("TELETHON_SESSION_NAME")
+TELETHON_API_ID = int(os.environ.get("26009823"))
+TELETHON_API_HASH = os.environ.get("e545fc56028ee9404ef5b5bec64503ca")
+TELEGRAM_BOT_TOKEN = os.environ.get("7040479821:AAEx6avqrLSgITlI0VUba-MnuOoTKObJlIE")
+TEST_CHANNEL_ID = int(os.environ.get("2072739136"))
+TELETHON_SESSION_NAME = os.environ.get("pavan")
 
 
 @unittest.skip("Slow real tests")
