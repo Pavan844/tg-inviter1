@@ -37,12 +37,13 @@ TEXT_JOINCHAT_BUTTON = "Join channel"
 
 
 # Secrets from .env file
-TELETHON_API_ID = int(os.environ.get("TELETHON_API_ID"))
-TELETHON_API_HASH = os.environ.get("TELETHON_API_HASH")
-TELETHON_SESSION_NAME = os.environ.get("TELETHON_SESSION_NAME")
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-TEST_CHANNEL_ID = int(os.environ.get("TEST_CHANNEL_ID"))
-TEST_JOINCHAT_KEY = os.environ.get("TEST_JOINCHAT_KEY")
+TELETHON_API_ID = int(os.environ.get("26009823"))
+TELETHON_API_HASH = os.environ.get("e545fc56028ee9404ef5b5bec64503ca")
+TELETHON_SESSION_NAME = os.environ.get("pavan")
+TELEGRAM_BOT_TOKEN = os.environ.get("7040479821:AAEx6avqrLSgITlI0VUba-MnuOoTKObJlIE")
+TEST_CHANNEL_ID = int(os.environ.get("2072739136"))
+TEST_JOINCHAT_KEY = os.environ.get("DbG759rfCLkzOTg1
+")
 
 
 def create_callbacks(storage, client):
