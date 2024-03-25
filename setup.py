@@ -14,8 +14,8 @@ install_reqs = parse_requirements("./requirements.txt")
 setuptools.setup(
     name="tg-inviter",
     version="0.1",
-    author="Alex Kosh",
-    author_email="sasha23969@mail.ru",
+    author="pavan",
+    author_email="pavanlegend844@gmail.com",
     description="Package to generate and process personal invites link in Telegram",
     long_description=long_description,
     long_description_content_type="text/markdown",
